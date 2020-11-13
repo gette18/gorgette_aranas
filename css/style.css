@@ -836,13 +836,13 @@ a:hover {
 
 @media screen and (max-width: 800px) {
   .ico-circle {
-    margin-bottom: 10rem;
+    margin-bottom: -10rem;
   }
 }
 
 @media screen and (max-width: 600px) {
   .ico-circle{
-    margin-bottom: 10rem;
+    margin-bottom: -10rem;
   }
 }
 
