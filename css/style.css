@@ -846,6 +846,13 @@ a:hover {
   }
 }
 
+@media screen and (max-width: 400px) {
+  .ico-circle{
+    margin-bottom: 1px;
+  }
+}
+
+
 .service-box .ico-circle {
   transition: all 500ms ease;
   font-size: 4rem;
