@@ -724,14 +724,14 @@ a:hover {
 }
 
 @media screen and (max-width: 800px) {
-  .name {
+  .header-content h1 {
     font-size: 40px;
     font-weight: 700;
   }
 }
 
 @media screen and (max-width: 600px) {
-  .name {
+  .header-content h1 {
     font-size: 40px;
     font-weight: 700;
   }
