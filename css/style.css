@@ -723,6 +723,20 @@ a:hover {
   text-shadow: 2px 2px 4px #000000;
 }
 
+@media screen and (max-width: 800px) {
+  .name {
+    font-size: 40px;
+    font-weight: 700;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .name {
+    font-size: 40px;
+    font-weight: 700;
+  }
+}
+
 .header-content p {
   font-size: 20px;
   letter-spacing: 5px;
