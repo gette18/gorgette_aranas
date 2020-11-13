@@ -835,13 +835,13 @@ a:hover {
 }
 
 @media screen and (max-width: 800px) {
-  .service-box .service-ico {
+  .ico-circle {
     padding-bottom: 5rem;
   }
 }
 
 @media screen and (max-width: 600px) {
-  .service-box .service-ico {
+  .ico-circle{
     padding-bottom: 5rem;
   }
 }
