@@ -837,18 +837,21 @@ a:hover {
 @media screen and (max-width: 800px) {
   .service-box .service-ico {
     margin-bottom: 1rem;
+    height: auto;
   }
 }
 
 @media screen and (max-width: 600px) {
   .service-box .service-ico {
     margin-bottom: 1rem;
+    height: auto;
   }
 }
 
 @media screen and (max-width: 400px) {
-  .ico-circle{
+  .service-box {
     margin-bottom: 1px;
+    height: auto;
   }
 }
 
