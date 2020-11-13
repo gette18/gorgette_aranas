@@ -834,6 +834,18 @@ a:hover {
   color: #ffa5a5;
 }
 
+@media screen and (max-width: 800px) {
+  .service-box .service-ico {
+    padding-bottom: 5rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .service-box .service-ico {
+    padding-bottom: 5rem;
+  }
+}
+
 .service-box .ico-circle {
   transition: all 500ms ease;
   font-size: 4rem;
