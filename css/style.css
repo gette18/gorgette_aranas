@@ -138,6 +138,7 @@ a:hover {
 
 .title-box {
   margin-bottom: 30px;
+  margin-top: 50px;
 }
 
 .title-a {
@@ -834,6 +835,28 @@ a:hover {
   color: #ffa5a5;
 }
 
+.new-logo{
+  height: 80px;
+  width: auto;
+  margin-left: 100px;
+}
+
+@media screen and (max-width: 600px) {
+  .new-logo{
+    height: 80px;
+    width: auto;
+    margin-left: 150px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .new-logo{
+    height: 80px;
+    width: auto;
+    margin-left: 150px;
+  }
+}
+
 @media screen and (max-width: 800px) {
   .service-box .service-ico {
     margin-bottom: 1rem;
@@ -850,11 +873,10 @@ a:hover {
 
 @media screen and (max-width: 400px) {
   .service-box {
-    margin-bottom: 1px;
+    margin-bottom: -10px;
     height: auto;
   }
 }
-
 
 .service-box .ico-circle {
   transition: all 500ms ease;
@@ -870,7 +892,9 @@ a:hover {
 
 .service-box .s-description {
   color: #4e4e4e;
+  margin-top: 10px;
 }
+
 
 /*======================================
 //--//-->   COUNTER
