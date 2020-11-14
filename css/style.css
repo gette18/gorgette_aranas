@@ -838,22 +838,28 @@ a:hover {
 .new-logo{
   height: 80px;
   width: auto;
-  margin-left: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (max-width: 600px) {
   .new-logo{
-    height: 80px;
-    width: auto;
-    margin-left: 150px;
+  height: 60px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   }
 }
 
 @media screen and (max-width: 400px) {
   .new-logo{
-    height: 80px;
-    width: auto;
-    margin-left: 150px;
+  height: 60px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   }
 }
 
