@@ -1473,6 +1473,14 @@ footer .credits a {
   }
 }
 
+@media screen and (max-width: 3000px) {
+  .profile {
+    flex: 550%;
+    max-width: 550%;
+  }
+}
+
+
 @media screen and (max-width: 800px) {
   .profile {
     flex: 100%;
